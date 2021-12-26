@@ -1,0 +1,18 @@
+{
+    "name": "habanacss",
+    "version": "1.0.1",
+    "description": "Habana CSS",
+    "main": "index.js",
+
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/mainlyno/habanacss"
+    },
+    "keywords": [
+      "habana",
+      "habana css"
+    ],
+    "author": "Ole Svennevig",
+    "license": "MIT"
+  }
+  
